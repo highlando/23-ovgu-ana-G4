@@ -1,11 +1,13 @@
-# Aktuelle Infos
+# Infos zur &Uuml;bungsgruppe 4 
 
-Vorlesungsraum: G05-118
-Zeit: 07:15--8:45 (ab dem 09.11.: 07:30--09:00)
+## Allgemeines und Aktuelles
 
-# Inhalte
+* Vorlesungsraum: G05-118
+* Zeit: 07:15--8:45 (ab dem 09.11.: 07:30--09:00)
 
-## &Uuml;bung 01 vom 19.10.
+## Inhalte
+
+### &Uuml;bung 01 vom 19.10.
 
  * &Uuml;bungsblatt 01
  * Aussagen und Wahrheitstafeln
@@ -16,5 +18,3 @@ Zeit: 07:15--8:45 (ab dem 09.11.: 07:30--09:00)
    * formal arbeiten (obwohl alles klar erscheint)
 
 **Nachtrag**: Wir haben allgemein im K&ouml;rper gearbeitet und gezeigt, dass das neutrale Element bez&uuml;glich der Addition eindeutig ist. [Hier im PDF](01-A6.pdf) die Schritte, die noch Fehlen zur Antwort von Aufgabe 6.
-
-
