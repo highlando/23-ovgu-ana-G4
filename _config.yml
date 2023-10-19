@@ -1,5 +1,5 @@
-theme: cayman
-title: Infos zur &Uuml;bungsgruppe 4 
-description: Hier gibt es eine grobe &Uuml;bersicht &uuml;ber die Themen und zus&auml;tzliche Materialien. Wenn ich etwas hier hochlade, k&uuml;ndige ich es immer per Email an.
+remote_theme: pages-themes/leap-day@v0.2.0
+title: Infos zur Übungsgruppe 4 
+description: Hier gibt es eine grobe Übersicht über die Themen und zus&auml;tzliche Materialien. Wenn ich etwas hier hochlade, k&uuml;ndige ich es immer per Email an.
 
 show_downloads: false
