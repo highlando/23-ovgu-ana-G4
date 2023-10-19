@@ -15,4 +15,4 @@
    * ein paar Beweistechniken
    * formal arbeiten (obwohl alles klar erscheint)
 
-**Nachtrag**: Wir haben allgemein im K&ouml;rper gearbeitet und gezeigt, dass das neutrale Element bez&uuml;glich der Addition eindeutig ist. [Hier im PDF](01-A6.pdf) die Schritte, die noch Fehlen zur Antwort von Aufgabe 6.
+**Nachtrag**: Wir haben allgemein im K&ouml;rper gearbeitet und gezeigt, dass das neutrale Element bez&uuml;glich der Addition eindeutig ist. [Hier im PDF](files/01-A6.pdf) die Schritte, die noch fehlen zur Antwort von Aufgabe 6.
