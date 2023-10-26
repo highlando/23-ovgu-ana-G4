@@ -22,8 +22,7 @@
  * &Uuml;bungsblatt 02
  * Nochmal zu den Quantoren
    * *es existiert 1 Deckel, der auf alle T&ouml;pfe passt* vs.
-   * *f&uuml; jeden Topf, gibt es einen passenden Deckel*
-   * off-the record: *Quantoren d&uuml;rft ihr jetzt schnell erstmal vergessen. Wenn sie wiederkommen, dann als praktisches Hilfsmittel.*
+   * *f&uuml;r jeden Topf, gibt es einen passenden Deckel*
  * Betragsstriche und L&ouml;sungsmengen
  * Vollst&auml;ndige Induktion 
    * f&auml;ngt manchmal erst sp&auml;ter als bei `n=0` oder `n=1` an
