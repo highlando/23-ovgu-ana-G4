@@ -1,5 +1,8 @@
 # Allgemeines und Aktuelles
 
+**Achtung:** Heute (26. Oktober) werde ich mich leider etwas versp&auml;ten. Es geht erst um 07:35 los. Hoffe aber, dass wir bis 8:45 trotzdem alles schaffen. **:Achtung**
+
+
 * Vorlesungsraum: G05-118
 * Zeit: 07:15--8:45 (ab dem 09.11.: 07:30--09:00)
 
