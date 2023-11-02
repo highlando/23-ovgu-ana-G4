@@ -44,12 +44,12 @@
    * und auch beim argumentieren
    * Es kann viele *untere Schranken* geben, manchmal ist es einfacher eine "schlechte" untere Schranke nachzuweisen
    * Nachweis, dass etwas die beste Schranke ist, ist wesentlich schwieriger
-   * zum "Trick" $0.5 < x < 2$ in $0 < z < 1.5$ zu &uuml;berf&uuml;hren
+   * zum "Trick" $$0.5 < x < 2$$ in $$0 < z < 1.5$$ zu &uuml;berf&uuml;hren
      * typischerweise steckt hinter einem Beweis sehr viel rumprobiere
      * was dann im Aufschrieb nicht mehr erz&auml;hlt wird
  * Nachweis der Wurzelformel 
    * das ist wieder eigentlich klar, aber "Argumente" sind gefragt
-     * wir zeigen mit den bekannten Operationen im K&ouml;rper, dass f&uuml;r $A=\sqrt(x)\sqrt(y)$ gilt, dass $A^2=x\cdot y$. 
-     * weil das die Definition der Wurzel von $x\cdot y$ ist, muss gelten, dass $A=\sqrt(x\cdot y)$
+     * wir zeigen mit den bekannten Operationen im K&ouml;rper, dass f&uuml;r $$A=\sqrt(x)\sqrt(y)$$ gilt, dass $$A^2=x\cdot y$$. 
+     * weil das die Definition der Wurzel von $$x\cdot y$$ ist, muss gelten, dass $$A=\sqrt(x\cdot y)$$
 
 **Nachtrag**: [Hier im PDF](files/03-A4--A6.pdf) die noch fehlenden Antworten (bis auf den Nachweis, dass $s=\frac{5}{2}$ tats&auml;chlich das Supremum von $M$ ist). Den Nachweis habe ich [hier aufgeschrieben](files/03-A4-2-5-ist-supremum.jpg) -- bei Interesse gerne versuchen nachzuvollziehen aber das ist wirklich schon sehr technisch.
