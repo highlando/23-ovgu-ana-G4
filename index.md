@@ -1,7 +1,7 @@
 # Allgemeines und Aktuelles
 
 * Vorlesungsraum: G05-118
-* Zeit: 07:15--8:45 (ab dem 09.11.: 07:30--09:00)
+* Zeit: 07:30--9:00
 
 # Inhalte
 
