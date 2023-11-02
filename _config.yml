@@ -3,3 +3,7 @@ title: Infos zur Übungsgruppe 4
 description: Hier gibt es eine grobe Übersicht über die Themen und zus&auml;tzliche Materialien. Wenn ich etwas hier hochlade, k&uuml;ndige ich es immer per Email an.
 
 show_downloads: false
+
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
