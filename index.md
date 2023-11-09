@@ -54,9 +54,9 @@
 
 **Nachtrag**: [Hier im PDF](files/03-A4--A6.pdf) die noch fehlenden Antworten (bis auf den Nachweis, dass $$s=\frac{5}{2}$$ tats&auml;chlich das Supremum von $$M$$ ist). Den Nachweis habe ich [hier aufgeschrieben](files/03-A4-2-5-ist-supremum.jpg) -- bei Interesse gerne versuchen nachzuvollziehen aber das ist wirklich schon sehr technisch.
 
-## &Uuml;bung 04 vom 02.11.
+## &Uuml;bung 04 vom 09.11.
 
- * &Uuml;bunsblatt 04
+ * &Uuml;bungsblatt 04
  * Allgemein zu "Beweis durch Beispiel ist kein Beweis"
    * immer gut und hilfreich, sich ein paar Beispiele anzuschauen
    * auch in der Abgabe "OK" aber dann bitte schreiben so was wie "ich habe das mal f&uuml;r ein paar F&auml;lle ausgerechnet und es scheint (zumindest f&uuml;r diese Beispiele) zu stimmen"
@@ -65,8 +65,8 @@
    * sondern die Aussage konkret und nachvollziehbar zu vereinfachen und dann zu entscheiden
    * im vorgestellten Fall war "der Limes" so ein Versuch, sich der Aufgabe durch einen Fachbegriff zu entziehen. Das ist zul&auml;ssig wenn dann
      1. der *Limes* definiert wird
-     2. nachgewiesen wird, dass *er nicht endlich* ist (was genau der gleiche Beweis zur eigentlichen Aussage, dass die Menge unbeschr&auml;nkt ist)
+     2. nachgewiesen wird, dass *kein endlicher Limes existiert* (was genau der gleiche Beweis zur eigentlichen Aussage, dass die Menge unbeschr&auml;nkt ist)
   * Komplexe Zahlen
   * Abz&auml;hlbare Mengen
 
-**Nachtrag**: [Hier noch der Beweis](files/04-A4d.pdf) zu $$\frac{1}{\sqrt{2}}(|x|+|y|)\geq |z|$$.
+**Nachtrag**: [Hier noch der Beweis](files/04-A4d.pdf) zu $$\frac{1}{\sqrt{2}}$$.  <!--(|x|+|y|)\geq |z|$$.-->
