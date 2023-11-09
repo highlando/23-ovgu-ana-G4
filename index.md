@@ -69,4 +69,4 @@
   * Komplexe Zahlen
   * Abz&auml;hlbare Mengen
 
-**Nachtrag**: [Hier noch der Beweis](files/04-A4d.pdf) zu $$\frac{1}{\sqrt{2}} (|x|+|y|) $$ `\geq |z|$$.`
+**Nachtrag**: [Hier noch der Beweis](files/04-A4d.pdf) zu $$\frac{1}{\sqrt{2}}(|x|+|y|)\geq|z|$$.
