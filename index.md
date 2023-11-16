@@ -70,3 +70,11 @@
   * Abz&auml;hlbare Mengen
 
 **Nachtrag**: [Hier noch der Beweis](files/04-A4d.pdf) zu $$\frac{1}{\sqrt{2}}(\|x\|+\|y\|)\geq\|z\|$$. (sorry f&uuml;r die doppelten Betragsstriche, ich habe es nicht anders hinbekommen...)
+
+## &Uuml;bung 05 vom 16.11.
+
+ * &Uuml;bungsblatt 05
+ * die $$\varepsilon-N$$ Definition f&uuml;r Konvergenz einer Folge (sehr wichtig und eigentlich nur eine mathematische Formulierung was man sonst versuchen w&uuml;rde zu sagen um Konvergenz zu erkl&auml;ren)
+ * die Definition mal angewendet um Konvergenz festzustellen
+
+**Nachtrag**: [Hier noch die L&ouml;sungen](files/05-A5.pdf) zur Grenzwert Berechnung (bzw. Nachweis, dass kein Grenzwert existiert).
