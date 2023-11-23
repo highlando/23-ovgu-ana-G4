@@ -78,3 +78,13 @@
  * die Definition mal angewendet um Konvergenz festzustellen
 
 **Nachtrag**: [Hier noch die L&ouml;sungen](files/05-A5.pdf) zur Grenzwert Berechnung (bzw. Nachweis, dass kein Grenzwert existiert).
+
+## &Uuml;bung 06 vom 23.11.
+
+ * &Uuml;bungsblatt 06
+ * Allgemein: $$\infty$$ ist keine Zahl, es ist ein hilfreiches Konzept zum Beispiel um *Divergenz* zu beschreiben oder um $$n \to \infty$$ Sinn zu verleihen (im Sinne von $$n$$ wird immer gr&ouml;&szlig;er)
+ * Also nicht(!) mit $$\infty$$ "rechnen". 
+ * Aber schon OK es als Konzept beim rechnen oder argumentieren zu benutzen. Z.B. "dieser Term wird unendlich" deswegen "geht 1 durch diesen Term gegen 0"
+ * Grenzwerts&auml;tze rechnen mit Folgen und deren Grenzwerte. **Achtung**: Voraussetzung ist immer, dass die Folgen konvergieren. Mit nicht konvergenten Folgen kann nicht gerechnet werden.
+
+**Nachtrag**: [Hier noch die Korrektur](files/06-A5.pdf) zur Berechnung der bestimmten Konvergenz.
