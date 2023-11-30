@@ -88,3 +88,14 @@
  * Grenzwerts&auml;tze rechnen mit Folgen und deren Grenzwerte. **Achtung**: Voraussetzung ist immer, dass die Folgen konvergieren. Mit nicht konvergenten Folgen kann nicht gerechnet werden.
 
 **Nachtrag**: [Hier noch die Korrektur](files/06-A5.pdf) zur Berechnung der bestimmten Konvergenz.
+
+## &Uuml;bung 07 vom 30.11.
+
+ * &Uuml;bungsblatt 07
+ * Allgemein: *Eine Folge ist eine Menge* woraus wir dann -- wie f&uuml;r Mengen -- Beschr&auml;nktheit und *infimum*/*supremum* definieren und, im konkreten Fall, bestimmen k&ouml;nnen
+ * Wir haben *lim inf* und *lim sup* hergeleitet und f&uuml;r Beispiele (Aufgabe 4) bestimmt 
+ * Allgemein: diese Limits k&ouml;nnen auch $$+\infty$$ oder $$-\infty$$ sein (das ist so gut definiert und es macht vieles einfacher).
+ * Konvergenz von komplexen Folgen. 
+ * Reihen: *Reihen sind Folgen* oder auch "die Reihe" ist der Grenzwert der Folge der Partialsummen
+
+**Nachtrag**: [Die L&ouml;sung zur A6](files/07-A6.pdf) mit Hilfe der [Partialbruchzerlegung](https://de.m.wikipedia.org/wiki/Partialbruchzerlegung)
