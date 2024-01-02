@@ -99,3 +99,25 @@
  * Reihen: *Reihen sind Folgen* oder auch "die Reihe" ist der Grenzwert der Folge der Partialsummen
 
 **Nachtrag**: [Die L&ouml;sung zur A6](files/07-A6.pdf) mit Hilfe der [Partialbruchzerlegung](https://de.m.wikipedia.org/wiki/Partialbruchzerlegung)
+
+## &Uuml;bung 08 vom 07.12.
+
+## &Uuml;bung 09 vom 14.12.
+
+## &Uuml;bung 10 vom 04.01.
+
+ * Allgemein: Mathematisch l&uuml;ckenlose Definition der Sinus/Kosinus Definition &uuml;ber
+   * komplexe Potenzreihe
+     * wir wissen wann und wie sie konvergiert
+   * komplexe Exponentialfunktion $$\exp\colon \mathbb C \to \mathbb C$$
+     * liefert eine komplexe Zahl f&uuml;r jeden Eingangswert
+   * Sinus/Kosinus f&uuml;r $$x\in\mathbb R$$ mittels
+     * $$\cos(x) + i\sin(x) = \exp(x) = \Re(\exp(x)) + i\Im(\exp(x))$$
+ * Herleitung der Formel f&uuml;r vielfache der Argumente aus den Additionstheoremen
+ * Stetigkeit von Funktionen
+   * die $$\delta-\epsilon$$ Definition am Beispiel
+   * Stetigkeit einer zusammengesetzten Funktion
+ * **Materialien** -- bitte im [nextcloud ordner](https://cloud.ovgu.de/s/JPx8P4iZGca6tZr) die Videos und Aufschriebe zu den Aufgaben 
+   * 10-A4: Additionstheoreme
+   * 10-A5-1: Definition der Stetigkeit -- etwas technisch (vielleicht erstmal skippen und 10-A5-2 anschauen)
+   * 10-A5-2: Stetigkeit einer zusammengesetzten Funktion
