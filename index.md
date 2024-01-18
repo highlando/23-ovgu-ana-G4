@@ -121,3 +121,12 @@
    * 10-A4: Additionstheoreme
    * 10-A5-1: Definition der Stetigkeit -- etwas technisch (vielleicht erstmal skippen und 10-A5-2 anschauen)
    * 10-A5-2: Stetigkeit einer zusammengesetzten Funktion
+
+## &Uuml;bung 12 vom 18.01.
+
+ * Was ist ein *uneigentlicher Grenzwert*?
+   * "eigentlich ein Grenzwert aber halt unendlich"
+ * Zwischenwertsatz
+   * macht Euch zu MathematikerInnen -- bspw. wird eine Nullstelle nicht ausgerechnet sondern nachgewiesen
+   * geht auch f&uuml;r Gleichungen -- eine L&ouml;sung wird nachgewiesen anstatt ausgerechnet
+ * [Meine L&ouml;sungen zum 12. Blatt](files/12.jpg)
