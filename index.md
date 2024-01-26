@@ -130,3 +130,13 @@
    * macht Euch zu MathematikerInnen -- bspw. wird eine Nullstelle nicht ausgerechnet sondern nachgewiesen
    * geht auch f&uuml;r Gleichungen -- eine L&ouml;sung wird nachgewiesen anstatt ausgerechnet
  * [Meine L&ouml;sungen zum 12. Blatt](files/12.jpg)
+
+## &Uuml;bung 13 vom 25.01.
+
+ * Allgemein:
+   * Klausur: nochmal die &Uuml;bungsaufgaben rechnen -- die vom Blatt 13 sind eher schwierig
+   * Pr&uuml;fung: Definitionen (erstmal in eigener Sprache, dann mathematisch) + 1 Beispiel kennen -- dann schon so gut wie durchgekommen
+ * Mein Aufschrieb plus ein paar Loesungen zum 13. Blatt
+   * [1. Teil](files/13-a.jpg)
+   * [2. Teil](files/13-b.jpg)
+
